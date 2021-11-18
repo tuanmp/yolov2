@@ -1,0 +1,8 @@
+annotated_video
+annotated_images
+images
+video
+env
+weights
+*/__pycache__
+*/.DS_Store

@@ -1,0 +1,8 @@
+{
+    "input_frame_rate": 1,
+    "output_frame_rate": 8,
+    "detection_threshold": 0.5,
+    "iou_threshold": 0.5,
+    "output_annotated_images": true
+    
+}
